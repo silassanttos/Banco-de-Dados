@@ -19,8 +19,6 @@
 
 **CRIAÇÃO DOS SCRIPS EM SQL**
 
-<P>Após o mapeamento para o modelo relacional foi implementado as tabelas no SGBD MySQL </P>
-
-<a href="https://github.com/silassanttos/Banco-de-Dados/blob/main/SCRIPT%20SQL%20CRIA%C3%87%C3%83O%20TABELAS/CRIACAO_TABELAS.sql">Clique aqui! E visite o script SQL</a>
+<P>Após o mapeamento para o modelo relacional foi implementado as tabelas no SGBD MySQL <a href="https://github.com/silassanttos/Banco-de-Dados/blob/main/SCRIPT%20SQL%20CRIA%C3%87%C3%83O%20TABELAS/CRIACAO_TABELAS.sql">Clique aqui! E visite o script SQL</a>  </P> 
 
 
